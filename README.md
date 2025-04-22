@@ -8,7 +8,7 @@ AR Güneş Sistemi, çocuklara Güneş Sistemi’ni eğlenceli ve etkileşimli b
 Mobil cihazlar üzerinden çalışan bu uygulama, STEM temelli eğitimi destekler.
 
 ## Proje Linki:  
-https://littleastronauts.xyz  
+https://littleastronauts.xyz/home    
 
 ## Trello Linki:  
 https://trello.com/b/hdugnmle/ar-gunessistemi-projesi
