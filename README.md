@@ -108,6 +108,10 @@ Oyunlar Page:
 About Us Page:  
 ![Image](https://github.com/user-attachments/assets/71c6066a-365b-4c6a-90d4-2593883d171c)
 
+QR Code Page:  
+![Image](https://github.com/user-attachments/assets/6f5e0ad1-6baf-4678-a7b1-b07ad804f207)
+
+
 
 Unity Screens:  
 ![Image](https://github.com/user-attachments/assets/3f214e86-8057-4fc9-bd89-f5af05810463)
