@@ -48,8 +48,35 @@ https://drive.google.com/drive/u/0/folders/1lSMEQMB6SXVXuuWFmUKO_PTEv3aiH8kK
 🔹 Projenin tamamlanması ve sunuma hazır hale getirilmesi  
 🔹 README, dökümantasyon ve tanıtım sayfasının hazırlanması
 
+8. Hafta  
+🔹 Unity'de proje yapısının planlanması  
+🔹 Sahne organizasyonu ve klasör yapısının belirlenmesi  
+🔹 VS Code ile çalışma ortamının hazırlanması  
 
-## Kurulum ve Kullanım Talimatları ⚙️   
+9. Hafta  
+🔹 İlk C# script dosyalarının yazılması  
+🔹 Gezegenlerin temel hareketlerinin kodlanması (dönme ve dönme yörüngesi)  
+
+10. Hafta  
+🔹 QR kod okuma sistemi kurulumu  
+🔹 Uygulama tetikleme mantığının geliştirilmesi  
+
+11. Hafta  
+🔹 Arayüz tasarımlarının oluşturulması (çocuklara uygun UX/UI)  
+
+12. Hafta   
+🔹 Alpha sürüm testleri  
+🔹 Hata ayıklama ve performans iyileştirmeleri  
+
+13. Hafta  
+🔹 Son testlerin yapılması   
+🔹 Uygulamanın son halinin oluşturulması  
+
+14. Hafta  
+🔹 Projenin sunuma hazır hale getirilmesi  
+🔹 README dosyası, dökümantasyon ve tanıtım sayfasının hazırlanması  
+ 
+## Kurulum ve Kullanım Talimatları ⚙️    
 
 ##  Kurulum  
 Unity 2021.3+ sürümünü indir  
