@@ -7,17 +7,14 @@ AR Güneş Sistemi, çocuklara Güneş Sistemi’ni eğlenceli ve etkileşimli b
 3D gezegen modelleri, sesli anlatımlar ve görev tabanlı oyun yapısıyla bilimsel merakı artırır.
 Mobil cihazlar üzerinden çalışan bu uygulama, STEM temelli eğitimi destekler.
 
-## Proje Linki:  
-https://littleastronauts.xyz
+## 🔗 Proje Bağlantıları
 
-##  Unity Proje Linki:  
-https://github.com/Faysal2000/SolarSystem
-
-## Trello Linki:  
-https://trello.com/b/hdugnmle/ar-gunessistemi-projesi
-
-## Döküman ve Diyagramlar:  
-https://drive.google.com/drive/u/0/folders/1lSMEQMB6SXVXuuWFmUKO_PTEv3aiH8kK
+- 🌐 **Web Sitesi**: [https://littleastronauts.xyz](https://littleastronauts.xyz)  
+- 💻 **Unity Proje Kodu**: [GitHub Repository](https://github.com/Faysal2000/SolarSystem)  
+- 📋 **Trello Yönetim Panosu**: [Trello](https://trello.com/b/hdugnmle/ar-gunessistemi-projesi)  
+- 📂 **Dökümanlar ve Diyagramlar**: [Google Drive Klasörü](https://drive.google.com/drive/u/0/folders/1lSMEQMB6SXVXuuWFmUKO_PTEv3aiH8kK)  
+- 📱 **Uygulama APK (Android)**:  
+  [**Buraya Tıkla APK'yi İndir**](https://drive.google.com/uc?export=download&id=1xNJcGFvm6TDWkPyd5H4DOreRSsuUJ6G1) 
 
 ## Geliştirme Süreci  
 1. Hafta  
@@ -84,16 +81,28 @@ Proje klasörünü aç
 Vuforia lisansı al ve entegre et  
 Build settings üzerinden Android seç ve projeyi derle  
 
-##  Kullanım  
-QR kodu tarat  
-Gezegenleri keşfet  
+## ⚙️ Kurulum ve Kullanım Talimatları
 
-##  Teknolojiler ve Araçlar  
-Unity  
-C#  
-Vuforia (AR SDK)  
-Firebase (isteğe bağlı backend)  
-Trello (yönetim)  
+### Kurulum
+
+1. Unity 2021.3+ sürümünü indir ve kur.
+2. Bu GitHub deposunu indir veya klonla.
+3. Unity ile proje klasörünü aç.
+4. Vuforia Engine lisansı al ve entegre et.
+5. **Build Settings** kısmında platform olarak **Android** seç ve APK oluştur.
+
+### Android Telefona Yükleme
+
+1. Yukarıdaki APK bağlantısını kullanarak `.apk` dosyasını indir.
+2. Telefonuna APK dosyasını aktar (veya doğrudan indir).
+3. Cihazdan yüklemeye izin ver.
+4. Uygulamayı başlat ve kamerayı kullanarak gezegenleri keşfet!
+
+### QR Üzerinden Kullanım
+
+- QR kodu telefon kamerası ile tara.
+- APK indirilecek sayfaya yönlendirilirsin.
+- İndirdikten sonra yukarıdaki adımları takip ederek yükleyebilirsin.
 
 
 
