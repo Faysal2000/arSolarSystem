@@ -9,7 +9,7 @@ Mobil cihazlar üzerinden çalışan bu uygulama, STEM temelli eğitimi destekle
 
 ## 🔗 Proje Bağlantıları
 
-- 🌐 **Web Sitesi**: [https://littleastronauts.xyz](https://littleastronauts.xyz/home)  
+- 🌐 **Web Sitesi**: [https://littleastronauts.xyz](https://littleastronauts.xyz/)  
 - 💻 **Unity Proje Kodu**: [GitHub Repository](https://github.com/Faysal2000/SolarSystem)  
 - 📋 **Trello Yönetim Panosu**: [Trello](https://trello.com/b/hdugnmle/ar-gunessistemi-projesi)  
 - 📂 **Dökümanlar ve Diyagramlar**: [Google Drive Klasörü](https://drive.google.com/drive/u/0/folders/1lSMEQMB6SXVXuuWFmUKO_PTEv3aiH8kK)  
