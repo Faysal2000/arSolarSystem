@@ -7,13 +7,14 @@ AR Güneş Sistemi, çocuklara Güneş Sistemi’ni eğlenceli ve etkileşimli b
 3D gezegen modelleri, sesli anlatımlar ve görev tabanlı oyun yapısıyla bilimsel merakı artırır.
 Mobil cihazlar üzerinden çalışan bu uygulama, STEM temelli eğitimi destekler.
 
-## Proje Linki:  
+## 🔗 Proje Bağlantıları
 
-## Trello Linki:  
-https://trello.com/b/hdugnmle/ar-gunessistemi-projesi
-
-## Döküman ve Diyagramlar:  
-https://drive.google.com/drive/u/0/folders/1lSMEQMB6SXVXuuWFmUKO_PTEv3aiH8kK
+- 🌐 **Web Sitesi**: [https://littleastronauts.xyz](https://littleastronauts.xyz/)  
+- 💻 **Unity Proje Kodu**: [GitHub Repository](https://github.com/Faysal2000/SolarSystem)  
+- 📋 **Trello Yönetim Panosu**: [Trello](https://trello.com/b/hdugnmle/ar-gunessistemi-projesi)  
+- 📂 **Dökümanlar ve Diyagramlar**: [Google Drive Klasörü](https://drive.google.com/drive/u/0/folders/1lSMEQMB6SXVXuuWFmUKO_PTEv3aiH8kK)  
+- 📱 **Uygulama APK (Android)**:  
+  [**Buraya Tıkla APK'yi İndir**](https://drive.google.com/uc?export=download&id=1xNJcGFvm6TDWkPyd5H4DOreRSsuUJ6G1) 
 
 ## Geliştirme Süreci  
 1. Hafta  
@@ -44,8 +45,35 @@ https://drive.google.com/drive/u/0/folders/1lSMEQMB6SXVXuuWFmUKO_PTEv3aiH8kK
 🔹 Projenin tamamlanması ve sunuma hazır hale getirilmesi  
 🔹 README, dökümantasyon ve tanıtım sayfasının hazırlanması
 
+8. Hafta  
+🔹 Unity'de proje yapısının planlanması  
+🔹 Sahne organizasyonu ve klasör yapısının belirlenmesi  
+🔹 VS Code ile çalışma ortamının hazırlanması  
 
-## Kurulum ve Kullanım Talimatları ⚙️   
+9. Hafta  
+🔹 İlk C# script dosyalarının yazılması  
+🔹 Gezegenlerin temel hareketlerinin kodlanması (dönme ve dönme yörüngesi)  
+
+10. Hafta  
+🔹 QR kod okuma sistemi kurulumu  
+🔹 Uygulama tetikleme mantığının geliştirilmesi  
+
+11. Hafta  
+🔹 Arayüz tasarımlarının oluşturulması (çocuklara uygun UX/UI)  
+
+12. Hafta   
+🔹 Alpha sürüm testleri  
+🔹 Hata ayıklama ve performans iyileştirmeleri  
+
+13. Hafta  
+🔹 Son testlerin yapılması   
+🔹 Uygulamanın son halinin oluşturulması  
+
+14. Hafta  
+🔹 Projenin sunuma hazır hale getirilmesi  
+🔹 README dosyası, dökümantasyon ve tanıtım sayfasının hazırlanması  
+ 
+## Kurulum ve Kullanım Talimatları ⚙️    
 
 ##  Kurulum  
 Unity 2021.3+ sürümünü indir  
@@ -53,16 +81,28 @@ Proje klasörünü aç
 Vuforia lisansı al ve entegre et  
 Build settings üzerinden Android seç ve projeyi derle  
 
-##  Kullanım  
-QR kodu tarat  
-Gezegenleri keşfet  
+## ⚙️ Kurulum ve Kullanım Talimatları
 
-##  Teknolojiler ve Araçlar  
-Unity  
-C#  
-Vuforia (AR SDK)  
-Firebase (isteğe bağlı backend)  
-Trello (yönetim)  
+### Kurulum
+
+1. Unity 2021.3+ sürümünü indir ve kur.
+2. Bu GitHub deposunu indir veya klonla.
+3. Unity ile proje klasörünü aç.
+4. Vuforia Engine lisansı al ve entegre et.
+5. **Build Settings** kısmında platform olarak **Android** seç ve APK oluştur.
+
+### Android Telefona Yükleme
+
+1. Yukarıdaki APK bağlantısını kullanarak `.apk` dosyasını indir.
+2. Telefonuna APK dosyasını aktar (veya doğrudan indir).
+3. Cihazdan yüklemeye izin ver.
+4. Uygulamayı başlat ve kamerayı kullanarak gezegenleri keşfet!
+
+### QR Üzerinden Kullanım
+
+- QR kodu telefon kamerası ile tara.
+- APK indirilecek sayfaya yönlendirilirsin.
+- İndirdikten sonra yukarıdaki adımları takip ederek yükleyebilirsin.
 
 
 
@@ -77,5 +117,19 @@ Oyunlar Page:
 About Us Page:  
 ![Image](https://github.com/user-attachments/assets/71c6066a-365b-4c6a-90d4-2593883d171c)
 
+QR Code Page:  
+![Image](https://github.com/user-attachments/assets/6f5e0ad1-6baf-4678-a7b1-b07ad804f207)
+
+
+
+Unity Screens:  
+![Image](https://github.com/user-attachments/assets/3f214e86-8057-4fc9-bd89-f5af05810463)
+
+
+![Image](https://github.com/user-attachments/assets/5365a4f9-6d68-420e-a25d-cfcf9bb55c97)
+
+
+
+![Image](https://github.com/user-attachments/assets/1d5e221b-e2de-4838-8d8d-2913200c0d7d)
 
 
