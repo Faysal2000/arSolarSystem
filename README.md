@@ -13,8 +13,7 @@ Mobil cihazlar üzerinden çalışan bu uygulama, STEM temelli eğitimi destekle
 - 💻 **Unity Proje Kodu**: [GitHub Repository](https://github.com/Faysal2000/SolarSystem)  
 - 📋 **Trello Yönetim Panosu**: [Trello](https://trello.com/b/hdugnmle/ar-gunessistemi-projesi)  
 - 📂 **Dökümanlar ve Diyagramlar**: [Google Drive Klasörü](https://drive.google.com/drive/u/0/folders/1lSMEQMB6SXVXuuWFmUKO_PTEv3aiH8kK)  
-- 📱 **Uygulama APK (Android)**:  
-  [**Buraya Tıkla APK'yi İndir**](https://drive.google.com/uc?export=download&id=1xNJcGFvm6TDWkPyd5H4DOreRSsuUJ6G1) 
+- 📱 **Uygulama APK**:  [**Buraya Tıkla APK'yi İndir**](https://drive.google.com/uc?export=download&id=1xNJcGFvm6TDWkPyd5H4DOreRSsuUJ6G1) 
 
 ## Geliştirme Süreci  
 1. Hafta  
