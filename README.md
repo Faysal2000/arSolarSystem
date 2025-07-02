@@ -7,13 +7,8 @@ AR Güneş Sistemi, çocuklara Güneş Sistemi’ni eğlenceli ve etkileşimli b
 3D gezegen modelleri, sesli anlatımlar ve görev tabanlı oyun yapısıyla bilimsel merakı artırır.
 Mobil cihazlar üzerinden çalışan bu uygulama, STEM temelli eğitimi destekler.
 
-## Proje Linki:  
 
-## Trello Linki:  
-https://trello.com/b/hdugnmle/ar-gunessistemi-projesi
 
-## Döküman ve Diyagramlar:  
-https://drive.google.com/drive/u/0/folders/1lSMEQMB6SXVXuuWFmUKO_PTEv3aiH8kK
 
 ## Geliştirme Süreci  
 1. Hafta  
